@@ -52,7 +52,6 @@ I work with AI coding agents (Claude Code, Codex) every day. The agents write an
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**epgu**](https://github.com/yellow444/epgu) <img src="https://img.shields.io/github/stars/yellow444/epgu?style=flat-square&amp;logo=github&amp;label=stars" alt="epgu stars" /> | Gateway, React UI and a Python library (`epgu-api`) for the Russian Gosuslugi (EPGU) API: ESIA login, XML/XSD validation, detached CAdES signatures, chunked ZIP upload. | Python, FastAPI, React |
 | [**WorkingCalendar**](https://github.com/yellow444/WorkingCalendar) | Russian production calendar service. Layered .NET 8 solution (Domain, Application, Infrastructure, API), EF Core migrations on PostgreSQL, scheduled data updater, xUnit tests, React client, Docker, Helm chart and Kubernetes manifests. | C#, ASP.NET Core, EF Core, PostgreSQL, React, TypeScript |
 | [**SimpleDehaze**](https://github.com/yellow444/SimpleDehaze) <img src="https://img.shields.io/github/stars/yellow444/SimpleDehaze?style=flat-square&amp;logo=github&amp;label=stars" alt="SimpleDehaze stars" /> | Haze removal for photos without neural networks (dark channel prior and other classical methods), CPU and CUDA paths, desktop GUI. | C#, .NET 8, EmguCV (OpenCV) |
 | [**ReadyToUse**](https://github.com/yellow444/ReadyToUse) | Performance exercise: three FastAPI services rewritten for speed with AVX, Numba, Cython and multithreading, with py-spy flamegraphs and wrk load tests. | Python, FastAPI, Numba, Cython |
@@ -61,7 +60,7 @@ Most of my commercial code is private, so this list is a small public slice.
 
 ## Writing
 
-- [Testing the Gosuslugi API with PyCades without the headache](https://habr.com/ru/articles/793028/) (Habr, in Russian, 26k views). The code is in [epgu](https://github.com/yellow444/epgu).
+- [Testing the Gosuslugi API with PyCades without the headache](https://habr.com/ru/articles/793028/) (Habr, in Russian, 26k views).
 - [Haze removal on images with .NET, a simple and effective approach](https://habr.com/ru/articles/810577/) (Habr, in Russian). The code is in [SimpleDehaze](https://github.com/yellow444/SimpleDehaze).
 
 ## GitHub stats
@@ -87,7 +86,7 @@ Most of my commercial code is private, so this list is a small public slice.
 </picture>
 </p>
 
-<sub>Cards count public activity only. Languages are measured over public repositories, where the Gosuslugi gateway is written in Python.</sub>
+<sub>Cards count public activity only. Most of my commercial code is private.</sub>
 
 ## По-русски
 
