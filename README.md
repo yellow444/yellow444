@@ -1,6 +1,10 @@
 <h1 align="center">Maksim Sitnikov</h1>
 
 <p align="center">
+  <a href="https://yellow444.github.io"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=40&amp;lines=Fullstack+.NET+developer;C%23+%7C+ASP.NET+Core+%7C+React+%7C+TypeScript;PostgreSQL+%7C+Kafka+%7C+Docker+%7C+Kubernetes;AI-assisted+development%3A+Claude+Code%2C+MCP" alt="Fullstack .NET developer. C#, ASP.NET Core, React, TypeScript. PostgreSQL, Kafka, Docker, Kubernetes. AI-assisted development: Claude Code, MCP" /></a>
+</p>
+
+<p align="center">
   <b>Fullstack .NET developer</b><br />
   C# | ASP.NET Core | React | Kubernetes | AI-assisted development<br />
   Moscow. Open to work: remote or hybrid.<br />
@@ -14,6 +18,17 @@
 I build web products end to end: backends in C# and ASP.NET Core, frontends in React and TypeScript, PostgreSQL underneath, and I ship them to Docker and Kubernetes through CI/CD. More than 8 years in commercial development, mostly in payments, anti-fraud, LegalTech and government API integrations.
 
 I work with AI coding agents (Claude Code, Codex) every day. The agents write and check code on my tasks. I own the architecture, the review and the result.
+
+## Contribution graph
+
+<p align="center">
+<!-- pacman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yellow444/yellow444/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yellow444/yellow444/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yellow444/yellow444/output/pacman-contribution-graph.svg">
+</picture>
+</p>
 
 ## What I work on
 
@@ -48,17 +63,6 @@ Most of my commercial code is private, so this list is a small public slice.
 
 - [Testing the Gosuslugi API with PyCades without the headache](https://habr.com/ru/articles/793028/) (Habr, in Russian, 26k views). The code is in [epgu](https://github.com/yellow444/epgu).
 - [Haze removal on images with .NET, a simple and effective approach](https://habr.com/ru/articles/810577/) (Habr, in Russian). The code is in [SimpleDehaze](https://github.com/yellow444/SimpleDehaze).
-
-## Contribution graph
-
-<p align="center">
-<!-- pacman -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yellow444/yellow444/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yellow444/yellow444/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yellow444/yellow444/output/pacman-contribution-graph.svg">
-</picture>
-</p>
 
 ## GitHub stats
 
