@@ -60,6 +60,7 @@ Most of my commercial code is private, so this list is a small public slice.
 
 ## Writing
 
+- [Uncertainty-Aware Airlight-Aligned Dual-Gain Recovery with Exact RGB Feasibility for Training-Free Single-Image Dehazing](https://arxiv.org/abs/2611.00052) (arXiv:2611.00052, eess.IV, 2026). A research paper on training-free single-image dehazing: two uncertainty-aware gains along and across the airlight vector, constrained to stay inside the RGB cube. Code and 64 tests are in [SimpleDehaze, branch hcv-a2cr-utaw](https://github.com/yellow444/SimpleDehaze/tree/hcv-a2cr-utaw).
 - [Testing the Gosuslugi API with PyCades without the headache](https://habr.com/ru/articles/793028/) (Habr, in Russian, 26k views).
 - [Haze removal on images with .NET, a simple and effective approach](https://habr.com/ru/articles/810577/) (Habr, in Russian). The code is in [SimpleDehaze](https://github.com/yellow444/SimpleDehaze).
 
@@ -90,7 +91,7 @@ Most of my commercial code is private, so this list is a small public slice.
 
 ## По-русски
 
-Я Максим, fullstack разработчик на .NET из Москвы, больше 8 лет в коммерческой разработке. Пишу бэкенд на C# и ASP.NET Core, фронтенд на React и TypeScript, сам настраиваю Docker, Kubernetes и CI/CD. Работал над платёжной системой, антифродом и юридической платформой, подключал API Госуслуг. Каждый день работаю с AI-агентами, Claude Code и Codex. Про интеграции с Госуслугами и ЕСИА пишу в Telegram-канале [Код с печатью](https://t.me/kod_s_pechatyu). Ищу работу fullstack разработчиком на .NET, удалённо или гибрид в Москве.
+Я Максим, fullstack разработчик на .NET из Москвы, больше 8 лет в коммерческой разработке. Пишу бэкенд на C# и ASP.NET Core, фронтенд на React и TypeScript, сам настраиваю Docker, Kubernetes и CI/CD. Работал над платёжной системой, антифродом и юридической платформой, подключал API Госуслуг. Каждый день работаю с AI-агентами, Claude Code и Codex. Опубликовал на arXiv научную статью про удаление дымки с фотографий без нейросетей: [arXiv:2611.00052](https://arxiv.org/abs/2611.00052). Про интеграции с Госуслугами и ЕСИА пишу в Telegram-канале [Код с печатью](https://t.me/kod_s_pechatyu). Ищу работу fullstack разработчиком на .NET, удалённо или гибрид в Москве.
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yellow444&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat-square" alt="Profile views" />
